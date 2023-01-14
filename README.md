@@ -20,5 +20,5 @@ Funcionalidades
 instale o projeto !
 
 cd mobile  
-cd cd app
+cd app
 yarn install && yarn start
