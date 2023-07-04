@@ -13,7 +13,7 @@ Funcionalidades
 
 - Ver em tempo real todo o cardapio disponivel
 - identificar a mesa 
-- inserir quantidade do produto solicitado no carrinho
+- inserir a quantidade do produto solicitado no carrinho
 - enviar o pedido em tempo real para o waiterapp web
 
 
