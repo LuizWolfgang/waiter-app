@@ -7,7 +7,7 @@
 
 WAIITERAPP MOBILE
 
-### O waiterapp mobile é um app desenvolvido para o garcon atender os clintes do restaurante.
+### O waiterapp mobile é um app desenvolvido para o garcon atender os clientes de um restaurante.
 
 Funcionalidades
 
